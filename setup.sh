@@ -10,6 +10,6 @@ sudo snap install alacritty --classic
 
 mkdir -p ~/.config/alacritty/
 
-curl  -o ~/.config/alacritty/alacritty.toml
+curl https://raw.githubusercontent.com/linux-terminal-setup/alacritty-setup/main/config/alacritty.toml  -o ~/.config/alacritty/alacritty.toml
 
 
